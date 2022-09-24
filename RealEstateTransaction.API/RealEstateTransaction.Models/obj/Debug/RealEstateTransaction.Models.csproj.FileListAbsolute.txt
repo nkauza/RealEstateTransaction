@@ -1,0 +1,6 @@
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\bin\Debug\RealEstateTransaction.Models.dll
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\bin\Debug\RealEstateTransaction.Models.pdb
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\obj\Debug\RealEstateTransaction.Models.csprojAssemblyReference.cache
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\obj\Debug\RealEstateTransaction.Models.csproj.CoreCompileInputs.cache
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\obj\Debug\RealEstateTransaction.Models.dll
+C:\Users\Nkauza\source\repos\RealEstateTransaction.API\RealEstateTransaction.Models\obj\Debug\RealEstateTransaction.Models.pdb
